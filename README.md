@@ -11,8 +11,8 @@ Dosen Pengampu Mata Kuliah: Adi Hermansyah, S.Kom., M.T
 ![Screenshot (405)](https://github.com/user-attachments/assets/7f0f2379-081c-42f1-82e2-80924c2d2611)
 
 # 2. Persiapan SSH di Ubuntu Server dan Desktop
-```bash``
-'sudo apt install openssh-server'
+
+```sudo apt install openssh-server```
 
 
 Desktop
